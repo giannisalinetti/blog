@@ -1,0 +1,4 @@
+baseURL = "https://giannisalinetti.github.io/"
+languageCode = "en-us"
+title = "Gianni Salinetti Blog"
+theme = "hugo-theme-prav"
