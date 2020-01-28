@@ -2,3 +2,27 @@ baseURL = "https://giannisalinetti.github.io/"
 languageCode = "en-us"
 title = "Gianni Salinetti Blog"
 theme = "hugo-theme-prav"
+
+pygmentsCodeFences = "true"
+pygmentsStyle = "perldoc"
+
+# If you want to track using GA or use disqus for comments, uncomment the
+# following and add the correct values
+#googleanalytics = ""
+#dddisqusShortname = ""
+
+# The settings below are used throughout the theme.
+# Please update!
+[params]
+  title = "Gianni Salinetti Blog"
+  tagline = "Gianni Salinetti personal blog on Github."
+  author = "Gianni Salinetti"
+
+# If you do not want a social icon, just comment it out
+# Please update the example values!
+[social]
+  email = "gsalinet@redhat.com"
+  twitter = "http://twitter.com/giannisalinetti"
+  github = "https://github.com/giannisalinetti"
+  linkedin = "https://it.linkedin.com/in/gianni-salinetti-8407a470"
+
